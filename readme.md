@@ -1,0 +1,1 @@
+Console program that runs a randomied initial state based on the rules of "Conways Game of Life"
